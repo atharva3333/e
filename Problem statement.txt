@@ -1,0 +1,1 @@
+Managing hotel operations manually is time-consuming and prone to errors, including room bookings, customer records, and service management. Our Hotel Management System automates these processes, providing an efficient, centralized platform for seamless hotel operations and enhanced customer experience.
