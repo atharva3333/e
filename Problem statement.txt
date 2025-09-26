@@ -1,1 +1,7 @@
 Managing hotel operations manually is time-consuming and prone to errors, including room bookings, customer records, and service management. Our Hotel Management System automates these processes, providing an efficient, centralized platform for seamless hotel operations and enhanced customer experience.
+
+
+
+The Hotel Management System is a web-based application designed to simplify and automate hotel operations. It provides customers with the ability to search room availability, make bookings, pay bills, and track their history, while administrators can manage rooms, staff, invoices, complaints, and reports from a centralized platform.
+
+The system integrates both customer-facing modules (registration, login, booking, payment, complaint) and admin-facing modules (room management, staff management, billing, reporting). This ensures smooth coordination between hotel staff and customers, reduces errors like double bookings, and improves overall efficiency.
